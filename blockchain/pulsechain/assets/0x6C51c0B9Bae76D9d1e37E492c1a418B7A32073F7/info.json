@@ -1,0 +1,29 @@
+{
+  "name": "SkyRocket",
+  "website": "https://tokenskyrocket.com",
+  "description": "Skyrocket token on Pulsechain",
+  "explorer": "https://scan.pulsechain.com/token/0x6C51c0B9Bae76D9d1e37E492c1a418B7A32073F7",
+  "type": "ERC20",
+  "symbol": "SKR",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x6C51c0B9Bae76D9d1e37E492c1a418B7A32073F7",
+  "tags": [
+    "defi",
+    "dexscreener"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": ""
+    },
+    {
+      "name": "twitter",
+      "url": ""
+    },
+    {
+      "name": "telegram",
+      "url": ""
+    }
+  ]
+}
